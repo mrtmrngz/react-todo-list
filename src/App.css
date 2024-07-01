@@ -1,0 +1,78 @@
+.App {
+  max-width: 70rem;
+  margin: 0 auto;
+}
+
+.web-header {
+  text-align: center;
+  margin-top: 5rem;
+  font-size: 3.5rem;
+}
+
+.todo-form {
+  margin-top: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.todo-form input {
+  width: 75%;
+}
+
+.clear-all-btn-wrapper {
+  margin-top: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.todo-list-wrapper {
+  width: 100%;
+  border: 1px solid #dee0ea;
+  margin-top: 3rem;
+}
+
+.todo-list-wrapper .todo-form {
+  margin-top: unset;
+}
+
+.todo-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.5rem;
+}
+
+.todo-item:not(:last-child) {
+  border-bottom: 1px solid #dee0ea;
+}
+
+.todo-item .todo-checkbox {
+  width: 1.5rem;
+  height: 1.5rem;
+  cursor: pointer;
+}
+
+.todo-name {
+  font-size: 2rem;
+}
+
+.todo-actions {
+  display: flex;
+  align-items: center;
+}
+
+.todo-actions .todo-action-icon {
+  font-size: 2rem;
+}
+
+.completed-todo {
+  text-decoration: line-through;
+}
+
+.empty-list-warning {
+  text-align: center;
+  margin: 50px 0;
+  color: red;
+}
