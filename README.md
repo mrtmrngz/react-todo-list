@@ -1,6 +1,6 @@
 # React Todo List(Context Api)
 
-Created by mrtmrngz. <br>
+Created by mrtmrngz. There is no responsive design <br>
 
 ## Demo
 
