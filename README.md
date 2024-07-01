@@ -1,10 +1,10 @@
 # React Todo List(Context Api)
 
-Created by mrtmrngz. <br><br>
+Created by mrtmrngz. <br>
 
 ## Demo
 
-https://mrtmrngz-react-todo-list.netlify.app <br><br>
+https://mrtmrngz-react-todo-list.netlify.app <br>
 
 ## Image
 
